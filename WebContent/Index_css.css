@@ -1,0 +1,47 @@
+.title {
+    font-size: 343%;
+    font-family: bold;
+    text-align: center;
+    position: relative;
+    padding-top: 10%;
+    color: #00ff68;
+}
+.description {
+    text-align: center;
+    position: relative;
+    font-size: 150%;
+    color: #40e0d0;
+    -webkit-padding-after: 4%;
+}
+.continue {
+    background-color:#0c7aaead;
+    color: powderblue;
+    border-radius: 20px;
+    left: 41%;
+    width: 16%;
+    font-size: 228%;
+    padding: .5%;
+    text-align: center;
+    position: relative;
+    cursor: pointer;
+}
+.continue:hover {
+    color: aqua;
+    background-color: #0000004f;
+    font-size: 250%;
+}
+body {
+    margin: 0px;
+}
+h1{
+	-webkit-margin-after: unset;
+    -webkit-text-stroke-width: .5px;
+    -webkit-text-stroke-color: darkgoldenrod;	
+}
+body{
+    background-repeat: no-repeat;
+    background: fixed;
+    background-size: 100%;
+    background-image: url("WelcomeBackground.jpg");
+}
+

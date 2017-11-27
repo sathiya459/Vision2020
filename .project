@@ -33,4 +33,21 @@
 		<nature>org.eclipse.jdt.core.javanature</nature>
 		<nature>org.eclipse.wst.jsdt.core.jsNature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>CreatingDatabase.sql</name>
+			<type>1</type>
+			<location>C:/Users/sathya/Documents/Vision2020/Createtables.sql</location>
+		</link>
+		<link>
+			<name>DisplayAllData.sql</name>
+			<type>1</type>
+			<location>C:/Users/sathya/Documents/Vision2020/Display_All Data.sql</location>
+		</link>
+		<link>
+			<name>InsertSampleData.sql</name>
+			<type>1</type>
+			<location>C:/Users/sathya/Documents/Vision2020/Insert_sample_data.sql</location>
+		</link>
+	</linkedResources>
 </projectDescription>
